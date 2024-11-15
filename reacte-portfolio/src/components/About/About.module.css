@@ -1,0 +1,17 @@
+@import "../../vars.css";
+
+.container {
+    margin-top: 50px;
+    margin-left: 12%;
+    margin-right: 20%;
+    background-color: var(--color-light-dark);
+}
+
+.title {
+    color: var(--color-text);
+}
+.penguin {
+    margin-top:15px ;
+    z-index: 1;
+    width: 75px;
+}

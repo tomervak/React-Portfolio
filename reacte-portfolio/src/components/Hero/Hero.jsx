@@ -8,7 +8,7 @@ export const Hero=()=>{
                 Hi, I'm Tomer.
             </h1>
             <p className={styles.description}>
-            I'm a Software Developer in the final stages of degree completion , B.Sc. in Computer Science
+            A Software Developer in the final stages of degree completion, B.Sc. in Computer Science
             Graduating from Ben Gurion University.
             </p>
             <a className={styles.contactBtn} href="mailto:tomervak98@gmail.com">contact me</a>
