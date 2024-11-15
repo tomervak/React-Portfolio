@@ -35,6 +35,7 @@
     font-size: 20px;
     font-family: var(--font-roboto);
     margin-bottom: 32px;
+    margin-right: 60px;
 }
 
 .contactBtn {
@@ -118,5 +119,8 @@
         width: 40%; 
         margin-bottom: 20px; 
         align-items: center;
+    }
+    .description{
+        margin-right: 0px;
     }
 }
