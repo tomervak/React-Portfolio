@@ -29,7 +29,7 @@
     list-style: none;
 }
 
-.menuItems a{
+.menuItems a {
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
@@ -39,8 +39,9 @@
     .menuBtn {
         display: none;
     }
+
     .menuItems {
-        display: flex; 
+        display: flex;
     }
 }
 
@@ -73,12 +74,12 @@
         gap: 13px;
         border-radius: 10px;
         background: rgb(255, 255, 255);
-        background: linear-gradient(0deg, rgba(195,75,54, 0.3) 0%, rgba(244,125,95, 1) 100%);
+        background: linear-gradient(0deg, rgba(195, 75, 54, 0.3) 0%, rgba(244, 125, 95, 1) 100%);
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 --color-dark;
     }
 
-    .menuOpen{
+    .menuOpen {
         display: flex;
         z-index: 1;
     }

@@ -14,7 +14,6 @@ export const Hero=()=>{
             <a className={styles.contactBtn} href="mailto:tomervak98@gmail.com">contact me</a>
         </div>
         <img  className={styles.heroImg} src={getImageUrl("hero/heroImg.png")} alt="hero img" />
-        <img  className={styles.heroImg} src={getImageUrl("hero/heroImg.png")} alt="hero img" />
         <div className={styles.topBlur}/>
         <div className={styles.bottomBlur}/>
     </section>);
