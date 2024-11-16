@@ -25,7 +25,7 @@ export const About = () => {
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("penguins/penguin3.png")} alt="penguin3" className={styles.penguin} />
                     <div className={styles.aboutItemText}>
-                        <p>I have experience in fontend development with React using JavaScript and css in personal projects.</p>
+                        <p>I have experience in frontend development with React using JavaScript and css in personal projects.</p>
                     </div>
 
                 </li>
