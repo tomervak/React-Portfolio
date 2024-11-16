@@ -5,7 +5,7 @@ import skills from "../../data/skills.json"
 
 export const Skills = () => {
     return (
-        <section className={styles.container} id="experience">
+        <section className={styles.container} id="skills" >
           <h2 className={styles.title}>Skills</h2>
           <div className={styles.content}>
             <div className={styles.skills}>
