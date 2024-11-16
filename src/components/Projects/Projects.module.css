@@ -11,7 +11,7 @@
     font-size: 35px;
     font-weight: 700;
     letter-spacing: 1.75px;
-    margin-left: 18%;
+    margin-left: 5%;
 }
 
 .projects {
@@ -23,4 +23,15 @@
     justify-content: center;
     gap: 35px;
     width: 100%;
+}
+
+@media screen and (max-width: 830px) {
+    .container{
+        text-align: center;
+    }
+
+    .title {
+        margin-left: 0%;
+        display: inline-block;
+    }
 }

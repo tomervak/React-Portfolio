@@ -8,7 +8,7 @@
 }
 
 .title {
-    margin-left: 20%;
+    margin-left: 5%;
     color: var(--color-text);
     font-size: 35px;    
     font-weight: 700;
@@ -60,6 +60,15 @@
       gap: 34px;
       margin-left: 10%;
       margin-right: 10%;
+    }
+
+    .container{
+        text-align: center;
+    }
+
+    .title {
+        margin-left: 0%;
+        display: inline-block;
     }
   
     .skills {

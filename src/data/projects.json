@@ -2,7 +2,7 @@
     {
       "title": "React Portfolio",
       "imageSrc": "projects/portfolio.png",
-      "description": " a responsive web portfolio using React in component-based development",
+      "description": "A responsive web portfolio using React in component-based development",
       "skills": ["React", "GitHub Pages" ,"GitHub Actions"],
       "demo": "https://tomervak.github.io/React-Portfolio/",
       "source": "https://github.com/tomervak/React-Portfolio"
@@ -10,7 +10,7 @@
     {
       "title": "Job Application Tracker ",
       "imageSrc": "projects/project.png",
-      "description": "a Web application where I developed aRESTful API.",
+      "description": "A web application where I developed a RESTful API.",
       "skills": ["NestJS", "MongoDB", "TypeScript"],
       "demo": null,
       "source": "https://github.com/The-Groupy-Group/job-application-tracker"
