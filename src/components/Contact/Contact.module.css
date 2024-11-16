@@ -50,6 +50,7 @@
     .container{
         flex-direction: column;
         gap: 25px;
+        text-align: center;
     }
 
     .text{
@@ -59,7 +60,7 @@
     }
 
     .links{
-        align-items:center;
+        align-items:left;
     }
 
     .link a{
